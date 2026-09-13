@@ -2,6 +2,8 @@
 
 A declarative, constraint-driven layout engine built with TypeScript that dynamically resolves a single ad specification into optimal layouts across wildly different surface profiles (Mobile Portrait, Mobile Landscape, Broadcast Lower-Third, Retail Kiosk, and custom surfaces) without per-surface hardcoded layout rules or CSS media query hacks.
 
+Deployed Website : https://flam-ad-engine.vercel.app/
+
 ---
 
 ## Key Features
